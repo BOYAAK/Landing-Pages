@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(./images/naruto-itachi-uchiha-aesthetic-anime-desktop-wallpaper-preview.jpg);
+    background-image: url("Your Image Path);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -127,4 +127,5 @@ a{
 .btnnn{
     display: flex;
     justify-self: center;;
+
 }
