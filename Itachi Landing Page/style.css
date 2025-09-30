@@ -1,0 +1,130 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;;
+}
+
+body{
+    background-image: url(./images/naruto-itachi-uchiha-aesthetic-anime-desktop-wallpaper-preview.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mainimg{
+    background: #0e0e0e;
+background: linear-gradient(90deg,rgba(38, 38, 38, 1) 0%, rgba(237, 221, 83, 0) 100%);
+    height: 100vh;
+}
+.nav{
+    /* border: 2px solid white; */
+    background-color: #ffda74a6;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 20px;
+    width: 1880px;
+    height: 100px;
+    border-radius: 100px;
+    justify-self: center;
+    align-items: center
+}
+
+.logo{
+    height:70% ;
+    margin-left: 60px;
+}
+
+img{
+    height: 100%;
+    filter: drop-shadow(5px 5px 10px #0000008c);
+}
+
+.anchor{
+    /* border: 2px solid white; */
+    display: flex;
+    gap: 63px;
+    font-size: 2rem;
+    font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+    text-decoration: none;
+    color: #231024;
+}
+
+.btnn{
+    height: 62px;
+    width: 154px;
+    background-color: #F3154F;
+    margin-right: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(5px 5px 10px #00000084);
+}
+
+.btnnn{
+    height: 72px;
+    width: 250px;
+    background-color: #F3154F;
+    margin-right: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(5px 5px 10px #00000084);
+}
+
+.abtn{
+    text-decoration: none;
+    color: #FFF9A9;
+    font-size: 2rem;
+}
+
+
+.abtnn{
+    text-decoration: none;
+    color: #FFF9A9;
+    font-size: 2rem;
+}
+
+.mainb{
+    /* border: 2px solid white; */
+    position: absolute;
+    top:300px;
+    display: inline;
+    width: 45%;
+    left: 100px;
+}
+
+.heading{
+    font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 8rem;
+  color: #F3154F;
+}
+
+.cap{
+    font-size: 2rem;
+    color: #FFF9A9;
+    margin-bottom: 35px;
+}
+
+.btnnn{
+    display: flex;
+    justify-self: center;;
+}
